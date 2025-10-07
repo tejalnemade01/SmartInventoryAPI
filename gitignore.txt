@@ -1,7 +1,0 @@
-# Ignore Visual Studio temporary files
-.vs/
-*.user
-*.suo
-bin/
-obj/
-.vscode/
